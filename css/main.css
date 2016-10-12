@@ -8,6 +8,7 @@
 	background-repeat: no-repeat;
 	background-position: center;
 	height: 100vh;
+	width: 100vw;
 }
 
 .logo{
@@ -36,7 +37,9 @@
 	border-radius: 5px;
 }
 
-.saleme{
-	height: 5px;
-	width: 5px;
+
+.next{
+	background-color: #FF00BE;
+	height: 50px;
+	padding:10px;
 }
