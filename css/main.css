@@ -1,0 +1,42 @@
+*{
+	box-sizing: border-box;
+
+}
+.bg{
+	background-image: url(../img/lyft-bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100vh;
+}
+
+.logo{
+	width: 30%;
+	margin-top: 20px;
+}
+
+
+.btns{
+	width: 100%;
+	position: absolute;
+	bottom: 15px;
+}
+
+.btn1{
+	border:1px solid #fff;
+	color:#fff;
+	
+	border-radius: 5px;
+}
+
+.btn2{
+	background: linear-gradient(to right, #9f18e2 9%,#d61555 59%);
+	color:#fff;
+	
+	border-radius: 5px;
+}
+
+.saleme{
+	height: 5px;
+	width: 5px;
+}
